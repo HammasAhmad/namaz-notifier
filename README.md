@@ -1,2 +1,0 @@
-# namaz-notifier
-Namaz
